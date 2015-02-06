@@ -3,3 +3,9 @@ dist
 .tmp
 .sass-cache
 bower_components
+
+# User-added
+.*.swp
+*.pyc
+*.sublime-*
+
